@@ -1,6 +1,6 @@
 # ASUS-UX390UA-HACKINTOSH
 中文说明请往下拉<br>
-Big Sur using Open Core.<br>
+Big Sur using Open Core 0.6.3 <br>
 Supports Big Sur and Catalina (Other versions not tested)
 ## Specifications:<br>
 ASUS ZENBOOK3U<br>
@@ -12,5 +12,8 @@ Monitor: B125HAN03.0 1920x1080 12.5-inch<br>
 Sound Card: Realtek ALC295 (layout-id: 1)<br>
 Wireless Card: Intel Wireless-AC 8260<br>
 ## What's Working:<br>
-Keyboard with lights<br>Touchpad with all gestures<br>Bluetooth&Wi-Fi (Wi-Fi works with low performance)<br>Integrated Graphics with full acceleration<br>Battery<br>Wakeable sleep (Power nap still under test)<br>Audio<br>HDMI (May need to re-plug)<br>
-               
+Keyboard with lights&shortcuts<br>Touchpad with all gestures<br>Bluetooth&Wi-Fi (Wi-Fi works with low performance)<br>Integrated Graphics with full acceleration<br>Battery<br>Wakeable sleep (Power nap still under test)<br>Audio<br>HDMI (May need to re-plug)<br>Adjustable display brightness<br>Continuity<br>Nvram<br>
+## What's not working:<br>
+Sidecar&Airdrop<br>
+## 中文说明<br>
+除了隔空投送和随航不能用其他都已适配
