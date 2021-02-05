@@ -10,5 +10,5 @@ Monitor: B125HAN03.0 1920x1080 12.5-inch<br>
 Sound Card: Realtek ALC295 (layout-id: 1)<br>
 Wireless Card: Intel Wireless-AC 8260<br>
 ## What's Working:<br>
-Keyboard with lights<br>Touchpad with all gestures<br>Bluetooth&Wi-Fi (Wi-Fi works with low perforamnce)<br>Integrated Graphics with full acceleration<br>Battery<br>Wakeable sleep (Power nap still under test)<br>Audio<br>HDMI (May need to re-plug)
+Keyboard with lights<br>Touchpad with all gestures<br>Bluetooth&Wi-Fi (Wi-Fi works with low performance)<br>Integrated Graphics with full acceleration<br>Battery<br>Wakeable sleep (Power nap still under test)<br>Audio<br>HDMI (May need to re-plug)
                
