@@ -1,4 +1,5 @@
 # ASUS-UX390UA-HACKINTOSH
+中文说明请往下拉<br>
 Big Sur using Open Core.<br>
 Supports Big Sur and Catalina (Other versions not tested)
 ## Specifications:<br>
