@@ -1,6 +1,8 @@
 # ASUS-UX390UA-HACKINTOSH
 ASUS ZENBOOK3U: Big Sur using Open Core.
+
 Supports Big Sur and Catalina (Other versions not tested)
+
 
 Processor	           Intel Core i5-7200U Processor
 
@@ -17,12 +19,20 @@ Sound Card	         Realtek ALC295 (layout-id: 1)
 Wireless Card	       Intel Wireless-AC 8260
 
 What's Working:Keyboard with lights
+               
                Touchpad with all gestures
+               
                Bluetooth&Wi-Fi (Wi-Fi works with low perforamnce)
+               
                Integrated Graphics with full acceleration
+               
                Hard Disk
+               
                Battery
+               
                Wakeable sleep (Power nap still under test)
+               
                Audio
+               
                HDMI (May need to re-plug)
                
