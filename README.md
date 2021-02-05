@@ -1,0 +1,2 @@
+# ASUS-UX390UA-HACKINTOSH
+ASUS ZENBOOK3U: Big Sur using Open Core.
