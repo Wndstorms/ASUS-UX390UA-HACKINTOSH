@@ -1,7 +1,8 @@
 # ASUS-UX390UA-HACKINTOSH
 Big Sur using Open Core.<br>
 Supports Big Sur and Catalina (Other versions not tested)
-## Specifications:<br>ASUS ZENBOOK3U
+## Specifications:<br>
+### ASUS ZENBOOK3U<br>
 Processor: Intel Core i5-7200U Processor<br>
 Memory: 8GB LPDDR3 2166MHz<br>
 Hard Disk: Sandisk SD8SNAT256G1002 256G<br>
