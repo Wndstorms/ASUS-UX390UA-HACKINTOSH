@@ -14,9 +14,9 @@ Wireless Card: Intel Wireless-AC 8260<br>
 ## What's Working:<br>
 `Keyboard` with lights&shortcuts<br>`Touchpad` with all gestures<br>`Bluetooth&Wi-Fi` (Wi-Fi works with low performance)<br>`Integrated Graphics` with full acceleration<br>`Battery`<br>Wakeable `sleep` (Power nap still under test)<br>`Audio`<br>`HDMI` (May need to re-plug)<br>Adjustable `display brightness`<br>`Continuity`<br>
 ## What's not working:<br>
-Sidecar&Airdrop<br>
+`Sidecar`&`Airdrop`<br>
 ## 中文说明<br>
 ## 可用<br>
-键盘：键盘灯可用，快捷键可用<br>触摸板支持所有手势<br>蓝牙Wi-Fi正常（Wi-Fi最高80M）<br>核显<br>电池<br>睡眠（电能小憩还在测试）<br>声音<br>HDMI（可能需要重插拔）<br>显示屏亮度<br>接力<br>
+`键盘`键盘灯可用，快捷键可用<br>`触摸板`支持所有手势<br>`蓝牙Wi-Fi`正常（Wi-Fi最高80M）<br>`核显`<br>`电池`<br>`睡眠`（电能小憩还在测试）<br>`声音`<br>`HDMI`（可能需要重插拔）<br>`显示屏亮度`<br>`接力`<br>
 ## 不可用<br>
-随航和隔空投送<br>
+`随航`和`隔空投送`<br>
