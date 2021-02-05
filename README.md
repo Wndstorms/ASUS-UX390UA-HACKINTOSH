@@ -18,7 +18,9 @@ Sound Card	         Realtek ALC295 (layout-id: 1)
 
 Wireless Card	       Intel Wireless-AC 8260
 
-What's Working:Keyboard with lights
+What's Working:
+
+               Keyboard with lights
                
                Touchpad with all gestures
                
