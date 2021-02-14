@@ -17,11 +17,11 @@ Wireless Card: Intel Wireless-AC 8260<br>
 `Sidecar`&`Airdrop`<br>
 ## About CFG LOCK:<br>
 BIOS Version:`F7`<br>
-VarStoreInfo (VarOffset/VarName) <br>`0x4E4`<br>
+VarStoreInfo (VarOffset/VarName) `0x4E4`<br>
 # 中文说明<br>
 ## 可用<br>
 `键盘`键盘灯可用，快捷键可用<br>`触摸板`支持所有手势<br>`蓝牙` `Wi-Fi`正常（Wi-Fi最高80M）<br>`核显`<br>`电池`<br>`睡眠`（电能小憩还在测试）<br>`声音`<br>`HDMI`（可能需要重插拔）<br>`显示屏亮度`<br>`接力`<br>
 ## 不可用<br>
 `随航`和`隔空投送`<br>
 ## CFG LOCK<br>
-`F7`版BIOS：<br>VarStoreInfo (VarOffset/VarName) <br>`0x4E4`
+`F7`版BIOS：<br>VarStoreInfo (VarOffset/VarName) `0x4E4`
