@@ -1,3 +1,7 @@
+# Improtant information
+Charly1000's repo is a better choice for this laptop since I got a new Ice Lake notebook so I won't make further improvements for this repo. Strongly Recommend https://github.com/Charly1000/UX390UA
+# 重要提示
+该引导已停止维护，前往 https://github.com/Charly1000/UX390UA 来获取来自`Charly1000`的`EFI`。
 # ASUS-UX390UA-HACKINTOSH
 中文说明请往下拉<br>
 Big Sur using Open Core 0.6.3 <br>
